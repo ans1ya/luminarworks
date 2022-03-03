@@ -1,0 +1,138 @@
+/* div{
+    background-color: black;
+    height: 500px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    margin-top: -475px;
+}
+.col{
+    height: 90px;
+    width: 80px;
+
+}
+.col1{
+    background-color: tomato;
+    margin-top: 0px;
+    margin-left: 270px;
+}
+.col2{
+    background-color: turquoise;
+    margin-top: -90px;
+    margin-left: 353px;
+}
+.col3{
+    background-color: yellow;
+    margin-top: -90px;
+    margin-left: 437px;
+}
+.col4{
+    background-color: green;
+    margin-left:521px ;
+    margin-top: -90px;
+}
+.col5{
+    background-color: hotpink;
+    margin-top: -90px;
+    margin-left: 606px;
+}
+.col2-1{
+    background-color: lawngreen;
+    margin-top: 31px;
+    margin-left: 186px;
+}
+.col2-2{
+    background-color: lightgrey;
+    margin-left: 270px;
+    margin-top: -91px;
+}
+.col2-3{
+    background-color: brown;
+    margin-left:355px ;
+    margin-top: -89px ;
+}
+.col2-4{
+    background-color: chocolate;
+    margin-left:437px ;
+    margin-top: -91px;
+}
+.col2-5{
+    background-color: cornflowerblue;
+    margin-left: 519px;
+    margin-top: -90px;
+
+}
+.col2-6{
+    background-color: darkblue;
+    margin-left: 604px;
+    margin-top: -90px;
+}
+.col2-7{
+    background-color: darkolivegreen;
+    margin-left:689px ;
+    margin-top: -90px;
+}
+
+
+.col3-1{
+    background-color: darksalmon;
+    margin-top: 33px;
+    margin-left: 100px;
+}
+.col3-2{
+    background-color: darkslateblue;
+    margin-left: 185px;
+    margin-top: -90px;
+}
+.col3-3{
+    background-color: aqua;
+    margin-top: -90px;
+    margin-left: 269px;
+}
+.col3-4{
+    background-color: rgb(42, 165, 97);
+    margin-left:353px ;
+    margin-top: -90px;
+}
+.col3-5{
+    background-color: chartreuse;
+    margin-left:436px ;
+    margin-top: -90px;
+}
+.col3-6{
+    background-color: darkgoldenrod;
+    margin-left: 519px;
+    margin-top: -90px;
+}
+.col3-7{
+    background-color: darkgreen;
+    margin-top: -90px;
+    margin-left:603px ;
+}
+.col3-8{
+    background-color: darkorange;
+    margin-left:688px ;
+    margin-top: -90px;
+}
+.col3-9{
+    background-color: deepskyblue;
+    margin-left: 773px;
+    margin-top: -90px;
+} */
+
+.row{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.col{
+    background-color: brown;
+    width:30px;
+    height: 40px;
+}
+

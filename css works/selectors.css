@@ -1,0 +1,24 @@
+h1{
+    color: crimson;
+    text-align: center;
+}
+#a1{
+    color: cyan;
+    text-align: right;
+}
+.c1{
+    color: darkgoldenrod;
+    text-align: end;
+}
+#d1{
+    background-color: darkmagenta;
+}
+#d2{
+    color: darkred;
+    background-color: deepskyblue;
+
+}
+/* descendant selector */
+div p{
+    color: tomato;
+}

@@ -1,0 +1,21 @@
+.col{
+    height: 100px;
+    width: 200px;
+    border:groove 2px black;
+}
+.col-1{
+    background-color: brown;
+    margin-left: 10px;
+}
+
+.col-2{
+    background-color: burlywood;
+    margin-left: 238px;
+    margin-top: -104px;
+}
+.col-3{
+    background-color: cadetblue;
+    margin-top: -104px;
+    margin-left: 485px;
+
+

@@ -1,0 +1,21 @@
+#b1{
+
+    width: 300px;
+    height: 200px;
+    background-color: steelblue;
+    position: relative;
+}
+#b2{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    position: absolute;
+    margin-left: 50%;
+
+}
+
+/* absolute: moves with window */
+/* relative: moves with parent */
+/* parent based move cheyyanamenkil parent position should be 
+relative, child position should be absolute and div should be
+parent and child */

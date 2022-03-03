@@ -1,0 +1,25 @@
+div{
+    color: tomato;
+    background-color: steelblue;
+    border: blueviolet 4px;
+    border-style: groove;
+    height: 230px;
+    width: 584px;
+    margin-left: 20px
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+#a{
+    background-color: aquamarine;
+    border: darkblue;
+    border-style:groove;
+}
+h3{
+    color: rgb(255, 80, 232);
+    text-align: center;
+
+
+}

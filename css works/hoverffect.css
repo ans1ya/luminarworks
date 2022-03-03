@@ -1,0 +1,15 @@
+h1{
+    color: turquoise;
+}
+span{
+    color: yellow;
+}
+button{
+    background-color: rgb(77, 17, 77);
+    border-radius: 20px;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: rgb(77, 21, 77);
+}
